@@ -1,4 +1,4 @@
-# ChatRealtimeApp_JavaSocket_Ver1
+# ChatRealtimeApp_JavaSocket_Ver1 ( 15/10/2024 ) 
 
 ## Màn hình đăng nhập của các Client.
  Các Client có thể đăng nhập, đăng ký tài khoản.
