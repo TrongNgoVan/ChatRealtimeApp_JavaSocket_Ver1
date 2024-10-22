@@ -3,39 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/form/Login.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/component/Chat_Image.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/PanelSlide.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_Package_Sender.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_Reques_File.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_Register.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/service/Service.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/component/Chat_Body.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_Send_Message.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/Line.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_Login.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/ModernScrollBarUI.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/ActiveStatus.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/Progress.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/component/Item_People.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/component/Chat_File.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_File_Receiver.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/component/Panel_More.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_File_Sender.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_Receive_Message.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/PictureBox.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/JIMSendTextPane.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/ComponentResizer.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/ProgressCircleUI.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/WrapLayout.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_Receive_Image.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/component/Image_Item.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/ScrollBar.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/swing/ImageAvatar.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/main/Main.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_Message.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/form/Loading.java</file>
-            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatPTIT/chart-application_1/src/com/raven/model/Model_User_Account.java</file>
+            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatRealtimeApp_JavaSocket_Ver1/chart-application_1/src/com/raven/form/Loading.java</file>
+            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatRealtimeApp_JavaSocket_Ver1/chart-application_1/src/com/raven/main/Main.java</file>
+            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatRealtimeApp_JavaSocket_Ver1/chart-application_1/src/com/raven/form/Chat.java</file>
+            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatRealtimeApp_JavaSocket_Ver1/chart-application_1/src/com/raven/form/Test.java</file>
+            <file>file:/C:/Users/MEDIAMART%20PHU%20SON/Documents/NetBeansProjects/ChatRealtimeApp_JavaSocket_Ver1/chart-application_1/src/com/raven/form/Home.java</file>
         </group>
     </open-files>
 </project-private>
